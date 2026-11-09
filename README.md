@@ -1,5 +1,8 @@
 # 海洋数据挖掘课程作业：水下机械臂 Workflow–Agent 选择性接管
+与 ChatGPT 的交流记录（海洋数据挖掘课程作业）
+https://chatgpt.com/share/6af1d7d9-e370-83ee-8f11-7b318c0ef676
 
+点击上方放大的链接，查看本次课程研究的交流记录。
 **课程：海洋数据挖掘（Marine Data Mining）**  
 **研究题目：基于状态证据与恢复收益的水下机械臂 Workflow–Agent 选择性接管研究**  
 **版本：v2.1 · 2026-11-09（公开提交版）**  
