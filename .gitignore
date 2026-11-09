@@ -1,0 +1,22 @@
+# 辅助防止误提交，不替代人工检查或权限控制。
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+__pycache__/
+.venv/
+venv/
+private/
+raw_data/
+models/
+checkpoints/
+*.bag
+*.db3
+*.mcap
+*.pt
+*.pth
+*.onnx
+*.ckpt
+.DS_Store
